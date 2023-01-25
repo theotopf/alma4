@@ -1,0 +1,15 @@
+h1 {
+    color: red;
+    text-align: center;
+}
+
+#alma {
+    border: 3px;
+    border-style: dashed;
+    text-align: center;
+}
+
+div{
+
+    text-align: justify;
+}
